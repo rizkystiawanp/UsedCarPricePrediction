@@ -84,4 +84,4 @@ Root Mean Squared Error (RMSE): $1,340 → The typical deviation in price predic
 
 ## Deployment
 Model deployed on Hugging face. Deployment file can be found in deployment folder.
-<a href="https://huggingface.co/spaces/rizkystiawanp/deployments">Huggingface</a>
+<a href="https://huggingface.co/spaces/rizkystiawanp/UsedCarPricePrediction">Huggingface</a>
