@@ -65,23 +65,23 @@ To address these issues, this project develops a **data-driven pricing model** t
 The trained Machine Learning model was evaluated based on the following key metrics:
 
 Evaluation Metrics:
-R² Score: 0.92 → The model explains 92% of the variance in car prices, indicating excellent performance.
-Mean Absolute Error (MAE): $950 → The average prediction error is only around $950.
-Mean Squared Error (MSE): $1,800,000 → Measures the squared difference between actual and predicted prices.
+R² Score: 0.92 → The model explains 92% of the variance in car prices, indicating excellent performance. <br>
+Mean Absolute Error (MAE): $950 → The average prediction error is only around $950. <br>
+Mean Squared Error (MSE): $1,800,000 → Measures the squared difference between actual and predicted prices. <br>
 Root Mean Squared Error (RMSE): $1,340 → The typical deviation in price predictions.
 
 ## Key Findings:
-✅ The model achieves high accuracy with an R² score of 92%, indicating strong predictive performance.
-✅ The prediction error is low (MAE of only $950), making the model highly reliable for used car pricing.
-✅ The model struggles slightly with extreme price variations, likely due to outliers in the dataset.
+✅ The model achieves high accuracy with an R² score of 92%, indicating strong predictive performance. <br>
+✅ The prediction error is low (MAE of only $950), making the model highly reliable for used car pricing. <br>
+✅ The model struggles slightly with extreme price variations, likely due to outliers in the dataset. <br>
 ✅ The most influential factors affecting car prices are brand, mileage, manufacturing year, and fuel type.
 
 ## Conclusion:
-✅ The model provides highly accurate price predictions with strong performance (92% accuracy).
-✅ Prediction errors are minimal, making this model suitable for real-world use in the used car market.
-✅ Further optimization can improve performance in handling outliers and extreme price fluctuations.
+✅ The model provides highly accurate price predictions with strong performance (92% accuracy). <br>
+✅ Prediction errors are minimal, making this model suitable for real-world use in the used car market. <br>
+✅ Further optimization can improve performance in handling outliers and extreme price fluctuations. <br>
 ✅ This model can help used car sellers set competitive prices, ensuring fair and transparent transactions for buyers.
 
 ## Deployment
 Model deployed on Hugging face. Deployment file can be found in deployment folder.
-<a href="https://huggingface.co/spaces/rizkystiawanp/deployments">Huggingface Link</a>
+<a href="https://huggingface.co/spaces/rizkystiawanp/deployments">Huggingface</a>
