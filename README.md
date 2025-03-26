@@ -20,9 +20,9 @@ This project offers a data-driven approach to provide objective and fair price r
 - Used Car Buyers → To assess the fairness of listed prices.
 
 ## 📰 Justification <br>
-<a href="https://indeks.kompas.com/topik-pilihan/list/8894/harga-mobil-bekas-2024">Kompas.com – Used Car Prices 2024</a> <br>
-<a href="https://www.mocil.id/blog/tren-harga-mobil-bekas-2024-apa-yang-perlu-anda-ketahui">Mocil.id – Market Trends for 2024</a> <br>
-<a href="https://www.suara.com/otomotif/2023/12/11/210056/ini8-faktor-yang-mempengaruhi-harga-jual-mobil-makin-standar-makin-oke">Suara.com – 8 Factors Affecting Resale Value</a>
+<a href="https://indeks.kompas.com/topik-pilihan/list/8894/harga-mobil-bekas-2024" target="_blank" >Kompas.com – Used Car Prices 2024</a> <br>
+<a href="https://www.mocil.id/blog/tren-harga-mobil-bekas-2024-apa-yang-perlu-anda-ketahui" target="_blank" >Mocil.id – Market Trends for 2024</a> <br>
+<a href="https://www.suara.com/otomotif/2023/12/11/210056/ini8-faktor-yang-mempengaruhi-harga-jual-mobil-makin-standar-makin-oke" target="_blank" >Suara.com – 8 Factors Affecting Resale Value</a>
 
 ## 📂 Dataset Source <br>
 <a href="https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/dat">Car Price Prediction - Manish Kumar (Kaggle)</a>
@@ -80,4 +80,4 @@ Among all tested algorithms, XGBRegressor achieved the best performance after fe
 
 ## 🚀 Deployment
 This project is deployed with **Streamlit** and hosted on Hugging Face:
-<a href="https://huggingface.co/spaces/rizkystiawanp/UsedCarPricePrediction">Huggingface</a>
+<a href="https://huggingface.co/spaces/rizkystiawanp/UsedCarPricePrediction" target="_blank">Huggingface</a>
